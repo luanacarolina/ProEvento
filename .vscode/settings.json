@@ -1,0 +1,5 @@
+{
+    "omnisharp.analyzeOpenDocumentsOnly": true,
+    "editor.guides.bracketPairs": true
+    
+}
